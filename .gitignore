@@ -1,0 +1,7 @@
+Utils/__pycache__/preprocess_data.cpython-38.pyc
+Utils/__pycache__/validate_model.cpython-38.pyc
+__pycache__/h2o.cpython-38.pyc
+.vscode/settings.json
+*.pyc
+AutogluonModels/
+Frameworks/
